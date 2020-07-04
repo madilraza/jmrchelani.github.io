@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Milton # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: https://avatars2.githubusercontent.com/u/55441239?s=460&u=d5767f8bdd99f1aa8d7e0dc3544af929c47d978f&v=4 # add your photo
 about-author: I am a software engineer focusing on app development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
